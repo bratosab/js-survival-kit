@@ -2,7 +2,6 @@ const hero = {
     name: 'Superman',
     gender: 'male',
     skills: ['flying', 'super strength', 'eye beam'],
-    weakness: 'cryptonite',
     age: 568
 }
 
