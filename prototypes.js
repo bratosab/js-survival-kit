@@ -1,4 +1,4 @@
 const Beer = { isRefreshing: true };
-const Guiness = Object.create(Beer);
+const Guinness = Object.create(Beer);
 
-console.log(Guiness.isRefreshing); // true
+console.log(Guinness.isRefreshing); // true
