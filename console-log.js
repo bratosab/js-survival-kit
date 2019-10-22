@@ -16,7 +16,7 @@ console.log({ a, b, c, d });
 console.table([a, b, c, d]);
 
 // Ninja Master Jedi Order Of The Gods Premium
-console.log('%c STAR WARS', 'color: blue; font-weight: bold;')
+console.log('%c STAR WARS', 'color: blue; font-weight: bold;');
 
 // Am I Slow ?
 console.time('million');
