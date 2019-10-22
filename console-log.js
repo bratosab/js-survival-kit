@@ -25,3 +25,10 @@ while (i < 1000000) {
     i++
 }
 console.timeEnd('million');
+
+// Stack trace in Logs
+const truncateDb = () => console.trace('It was me, I am your father');
+
+truncateDb();
+truncateDb();
+truncateDb();
