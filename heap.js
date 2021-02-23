@@ -1,9 +1,9 @@
 function increment() {
   const i = 1;
-  myObj.value++;
+  myObj.counter++;
 }
 
-const myObj = { value: 0 };
+const myObj = { counter: 0 };
 
 function doIncrement() {
   increment();
