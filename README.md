@@ -6,3 +6,6 @@ Showcases, features and history of JavaScript
 
 ## Google Slides
 https://docs.google.com/presentation/d/1wa7zeMsMUaNwTAfrikcrxYeFDO01OJOIXrQvCyAkaZ4/edit?usp=sharing
+
+## How to start project
+Open demonstratuins.html in a web browser, and use the developper tools source explorer to add breakpoints
